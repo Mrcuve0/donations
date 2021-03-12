@@ -1,6 +1,6 @@
 # Donations
 
-## Covfefe is nice but have you ever tried a nice cold beer? :D
+## Yeah covfefe is cool but have you ever tried a nice cold beer? :D
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
