@@ -20,7 +20,7 @@ Below you'll find infos on how you can do it:
 
 2. Donate via LiberaPay [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
 
-3. Here's my bitcoin address:
+3. Here's my **bitcoin address**:
 ```
 bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 ```
